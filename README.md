@@ -23,3 +23,10 @@
 you can also learn basic git related concepts from these mentioned links
  - https://www.youtube.com/watch?v=2j7fD92g-gE&ab_channel=Simplilearn
  - https://www.youtube.com/watch?v=41tsyReTloA&ab_channel=edureka%21
+
+
+ ### Softwares Required in this course
+ - https://git-scm.com/downloads
+ - https://www.jetbrains.com/pycharm/download/#section=windows  (Download COmmunity Version)
+ - https://www.sublimetext.com/
+ - https://powerbi.microsoft.com/en-us/

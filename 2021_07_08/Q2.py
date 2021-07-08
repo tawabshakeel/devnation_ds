@@ -1,3 +1,4 @@
-
-Input = ['devnation', 'data science', 'requires', 'dedication']
-print(Input.split(','))
+def stringify(mylist):
+    l = list(map(list,mylist))
+    return l
+stringify(['devnation', 'data science', 'requires', 'dedication'])

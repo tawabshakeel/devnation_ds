@@ -7,6 +7,7 @@
 1. Download [GitBash](https://git-scm.com/downloads)
 2. Open Gitbash command Line
 3. run this command `git clone https://github.com/tawabshakeel/devnation_ds.git`
+4. run this command `cd devnation_ds`
 4. run this command `git checkout -b your_name` replace your_name with your name. Make sure there should not be a space in your_name .i.e If your name is tawab shakeel then your command should be `git checkout -b tawab_shakeel`
 5. create a folder with the date like if the assignment due date is 8th July 2021 then create a folder with the name `2021_07_08` and all your solution in this folder
 6. After adding all of the solutions in the folder run the command `git add .`
@@ -27,6 +28,6 @@ you can also learn basic git related concepts from these mentioned links
 
  ### Softwares Required in this course
  - https://git-scm.com/downloads
- - https://www.jetbrains.com/pycharm/download/#section=windows  (Download COmmunity Version)
+ - https://www.jetbrains.com/pycharm/download/#section=windows  (Download Community Version)
  - https://www.sublimetext.com/
  - https://powerbi.microsoft.com/en-us/
